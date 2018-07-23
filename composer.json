@@ -1,0 +1,22 @@
+{
+  "name": "KamiOrz/aip-php-sdk",
+  "description": "百度百度语言处理 PHP SDK 2.2.5",
+  "version": "2.2.5",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "homepage": "http://ai.baidu.com/sdk#nlp",
+  "authors": [
+    {
+      "name": "baidu",
+      "email": "admin@baidu.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "files": [
+      "src/AipNlp.php"
+    ]
+  }
+}
